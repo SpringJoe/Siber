@@ -1,3 +1,5 @@
 server/target/*
 client/lib
+client/build
+client/node_modules
 *.iml
