@@ -1,0 +1,3 @@
+server/target/*
+client/lib
+*.iml
